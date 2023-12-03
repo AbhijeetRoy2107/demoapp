@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">demoapp</string>
     <string name="img_des">panda_img</string>
+    <string name="hint">Enter your name</string>
     <string name="text">Pandas, with their distinctive black and white coat and endearing round faces, are beloved icons of the animal kingdom. These gentle giants, native to China, captivate hearts with their playful antics and adorable clumsiness. Renowned for their bamboo-based diet, pandas spend hours leisurely munching on this fibrous plant, showcasing their remarkable dexterity as they strip the leaves with agile precision. Despite their solitary nature in the wild, pandas evoke a sense of unity and wonder worldwide, serving as ambassadors for conservation efforts to protect their diminishing habitats and ensure the continuation of this enchanting species.</string>
 </resources>

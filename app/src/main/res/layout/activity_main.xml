@@ -12,12 +12,20 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="300dp"
-        android:src="@drawable/panda_bear"
-        android:contentDescription="@string/img_des"/>
+        android:contentDescription="@string/img_des"
+        android:src="@drawable/panda_bear" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/text" />
+
+    <EditText
+        android:id="@+id/editTextText"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:ems="10"
+        android:hint="@string/hint"
+        android:inputType="text" />
 
 </LinearLayout>
