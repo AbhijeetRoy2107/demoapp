@@ -10,4 +10,15 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:text="SURAP"
+        android:textSize="120sp"
+        android:paddingLeft="10dp"
+        android:paddingTop="100dp"
+        />
+
+
+
 </LinearLayout>
